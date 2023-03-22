@@ -1,0 +1,5 @@
+print ("Hey, world")
+n=5
+string="Hey, world"
+print(string * n)
+
